@@ -1,0 +1,65 @@
+---
+title: "Teaching"
+description: "Course material in advanced statistical physics by Zakaria Mzaouali."
+page-layout: full
+title-block-style: none
+---
+
+::: {.page-hero .page-hero-compact}
+<p class="eyebrow">Teaching</p>
+
+# Advanced Statistical Physics
+
+Course notes, lecture slides, and problem sets from Spring 2018–2019.
+:::
+
+::: {.content-shell}
+::: {.course-intro}
+<div>
+
+## Course material
+
+The files from the original website have been preserved here with clearer names. They open in the browser and can also be downloaded directly.
+</div>
+<div class="course-mark">ASP</div>
+:::
+
+::: {.download-list}
+::: {.download-item}
+<div class="file-icon">PDF</div>
+<div><strong>Complete course notes</strong><span>568 KB</span></div>
+[Open](files/courses/advanced-statistical-physics/course.pdf){.download-link}
+:::
+
+::: {.download-item}
+<div class="file-icon">PDF</div>
+<div><strong>Part I · Lecture 1</strong><span>872 KB</span></div>
+[Open](files/courses/advanced-statistical-physics/slides-part1-lecture1.pdf){.download-link}
+:::
+
+::: {.download-item}
+<div class="file-icon">PDF</div>
+<div><strong>Part I · Lecture 2</strong><span>120 KB</span></div>
+[Open](files/courses/advanced-statistical-physics/slides-part1-lecture2.pdf){.download-link}
+:::
+
+::: {.download-item}
+<div class="file-icon">PDF</div>
+<div><strong>Part II · Slides</strong><span>628 KB</span></div>
+[Open](files/courses/advanced-statistical-physics/slides-part2.pdf){.download-link}
+:::
+
+::: {.download-item}
+<div class="file-icon">PDF</div>
+<div><strong>Homework · Part I</strong><span>76 KB</span></div>
+[Open](files/courses/advanced-statistical-physics/homework-part1.pdf){.download-link}
+:::
+
+::: {.download-item}
+<div class="file-icon">PDF</div>
+<div><strong>Homework · Part II</strong><span>68 KB</span></div>
+[Open](files/courses/advanced-statistical-physics/homework-part2.pdf){.download-link}
+:::
+:::
+:::
+

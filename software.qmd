@@ -1,0 +1,64 @@
+---
+title: "Software"
+description: "Open research software and reproducible computing projects by Zakaria Mzaouali."
+page-layout: full
+title-block-style: none
+---
+
+::: {.page-hero .page-hero-compact}
+<p class="eyebrow">Software</p>
+
+# Open tools and reproducible workflows
+
+Code is part of the scientific record. These projects expose models, numerical methods, and benchmark instances so that results can be inspected and extended.
+:::
+
+::: {.content-shell}
+::: {.software-grid}
+::: {.software-card}
+<div class="software-meta"><span>Julia</span><span>Tensor networks</span></div>
+
+## SpinGlassPEPS.jl
+
+A tensor-network package for Ising-like optimization on quasi-two-dimensional graphs, developed with collaborators in the EuroHPC-PL project.
+
+[Repository](https://github.com/euro-hpc-pl/SpinGlassPEPS.jl){.btn .btn-sm .btn-primary} [Paper](https://www.sciencedirect.com/science/article/pii/S2352711025002249){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.software-card}
+<div class="software-meta"><span>Python</span><span>Annealing</span></div>
+
+## DWaveDynamics
+
+Reference implementations for mapping quantum-inspired dynamical models to QUBO instances and comparing quantum and classical annealers.
+
+[Repository](https://github.com/atg205/DWaveDynamics){.btn .btn-sm .btn-primary} [Paper](https://arxiv.org/abs/2509.03952){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.software-card}
+<div class="software-meta"><span>Python</span><span>Phase space</span></div>
+
+## Wigner-function methods
+
+Research code supporting phase-space studies of critical quantum systems and nonclassicality.
+
+[Repository](https://github.com/MoorishQubit/wigner){.btn .btn-sm .btn-primary} [Related paper](https://arxiv.org/abs/2405.02680){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.software-card}
+<div class="software-meta"><span>HPC</span><span>Examples</span></div>
+
+## HPC samples
+
+Compact examples and job scripts used in high-performance computing workflows.
+
+[Repository](https://github.com/MoorishQubit/hpc_samples){.btn .btn-sm .btn-primary}
+:::
+:::
+
+::: {.repo-note}
+### More on GitHub
+
+Current research code is released when a project reaches a reproducible public stage. Browse the complete public record on [GitHub](https://github.com/MoorishQubit).
+:::
+:::

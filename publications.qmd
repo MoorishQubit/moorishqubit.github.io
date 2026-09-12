@@ -1,0 +1,211 @@
+---
+title: "Publications"
+description: "Publications and preprints by Zakaria Mzaouali."
+page-layout: full
+title-block-style: none
+---
+
+::: {.page-hero .page-hero-compact}
+<p class="eyebrow">Publications</p>
+
+# Research articles and preprints
+
+Links below point to the journal version when available and to an open preprint. See also [Google Scholar](https://scholar.google.com/citations?user=OEWZC-EAAAAJ&hl=en), [arXiv](https://arxiv.org/a/mzaouali_z_1.html), and [ORCID](https://orcid.org/0000-0003-3948-1318).
+:::
+
+::: {.content-shell .publication-shell}
+## 2026 {.pub-year}
+
+::: {.publication}
+<span class="pub-count">01</span>
+<div>
+
+### Quantum annealers as programmable thermal machines
+
+J. Pawłowski, T. Śmierzchalski, F. Jin, B. Gardas, S. Deffner, and **Z. Mzaouali**.
+
+Preprint, 2026.
+
+[arXiv](https://arxiv.org/abs/2608.04564){.pub-link}
+</div>
+:::
+
+::: {.publication}
+<span class="pub-count">02</span>
+<div>
+
+### Chirality routing non-polaritonic vacuum correlations in Landau polaritons
+
+A. EL-Amrani, **Z. Mzaouali**, H. Sabri, H. Rabitz, A. El Fatimy, and D. Lee.
+
+Preprint, 2026.
+
+[arXiv](https://arxiv.org/abs/2606.00165){.pub-link}
+</div>
+:::
+
+::: {.publication}
+<span class="pub-count">03</span>
+<div>
+
+### Thermodynamic significance of QUBO encoding on quantum annealers
+
+E. Doucet, **Z. Mzaouali**, R. Robertson, B. Gardas, S. Deffner, and K. Domino.
+
+*New Journal of Physics* **28**, 054512 (2026).
+
+[Journal](https://doi.org/10.1088/1367-2630/ae6e98){.pub-link} [arXiv](https://arxiv.org/abs/2601.04402){.pub-link}
+</div>
+:::
+
+::: {.publication}
+<span class="pub-count">04</span>
+<div>
+
+### Quantum-inspired dynamical models on quantum and classical annealers
+
+P. Hanussek, J. Pawłowski, **Z. Mzaouali**, and B. Gardas.
+
+*Physical Review Applied* **25**, 044055 (2026).
+
+[Journal](https://journals.aps.org/prapplied/abstract/10.1103/rrf3-jm5m){.pub-link} [arXiv](https://arxiv.org/abs/2509.03952){.pub-link} [Code](https://github.com/atg205/DWaveDynamics){.pub-link}
+</div>
+:::
+
+## 2025 {.pub-year}
+
+::: {.publication}
+<span class="pub-count">05</span>
+<div>
+
+### EMU circulation planning for Silesian Railways: case study and a quantum approach
+
+E. Kędziera, W. Gamon, M. Koniorczyk, **Z. Mzaouali**, A. Galadíková, and K. Domino.
+
+Preprint, 2025.
+
+[arXiv](https://arxiv.org/abs/2512.19340){.pub-link}
+</div>
+:::
+
+::: {.publication}
+<span class="pub-count">06</span>
+<div>
+
+### Simon's period finding on a quantum annealer
+
+R. Robertson, E. Doucet, **Z. Mzaouali**, K. Domino, B. Gardas, and S. Deffner.
+
+*2025 IEEE International Conference on Quantum Computing and Engineering (QCE)* **1**, 190 (2025).
+
+[Proceedings](https://ieeexplore.ieee.org/document/11250344){.pub-link} [arXiv](https://arxiv.org/abs/2504.10771){.pub-link} [Press coverage](https://quantumzeitgeist.com/adiabatic-implementation-of-simons-algorithm-solves-large-scale-problems/){.pub-link}
+</div>
+:::
+
+::: {.publication}
+<span class="pub-count">07</span>
+<div>
+
+### SpinGlassPEPS.jl: Tensor-network package for Ising-like optimization on quasi-two-dimensional graphs
+
+T. Śmierzchalski, A. M. Dziubyna, K. Jałowiecki, **Z. Mzaouali**, Ł. Pawela, B. Gardas, and M. M. Rams.
+
+*SoftwareX* **31**, 102257 (2025).
+
+[Journal](https://www.sciencedirect.com/science/article/pii/S2352711025002249){.pub-link} [arXiv](https://arxiv.org/abs/2502.02317){.pub-link} [Code](https://github.com/euro-hpc-pl/SpinGlassPEPS.jl){.pub-link}
+</div>
+:::
+
+## 2024 {.pub-year}
+
+::: {.publication}
+<span class="pub-count">08</span>
+<div>
+
+### Navigating the phase diagram of quantum many-body systems in phase space
+
+K. El Hawary, M. Azzouz, M. El Baz, S. Deffner, B. Gardas, and **Z. Mzaouali**.
+
+*Physical Review E* **110**, 014120 (2024).
+
+[Journal](https://doi.org/10.1103/PhysRevE.110.014120){.pub-link} [arXiv](https://arxiv.org/abs/2405.02680){.pub-link}
+</div>
+:::
+
+::: {.publication}
+<span class="pub-count">09</span>
+<div>
+
+### Efficiency optimization in quantum computing: balancing thermodynamics and computational performance
+
+T. Śmierzchalski, **Z. Mzaouali**, S. Deffner, and B. Gardas.
+
+*Scientific Reports* **14**, 4555 (2024).
+
+[Journal](https://doi.org/10.1038/s41598-024-55314-z){.pub-link} [arXiv](https://arxiv.org/abs/2307.14022){.pub-link}
+</div>
+:::
+
+## 2023 {.pub-year}
+
+::: {.publication}
+<span class="pub-count">10</span>
+<div>
+
+### Long-distance entanglement and high-dimensional quantum teleportation in the Fermi–Hubbard model
+
+S. Abaach, **Z. Mzaouali**, and M. El Baz.
+
+*Scientific Reports* **13**, 964 (2023).
+
+[Journal](https://doi.org/10.1038/s41598-023-28180-4){.pub-link} [arXiv](https://arxiv.org/abs/2210.17097){.pub-link}
+</div>
+:::
+
+## 2021 {.pub-year}
+
+::: {.publication}
+<span class="pub-count">11</span>
+<div>
+
+### Work statistics and symmetry breaking in an excited-state quantum phase transition
+
+**Z. Mzaouali**, R. Puebla, J. Goold, M. El Baz, and S. Campbell.
+
+*Physical Review E* **103**, 032145 (2021).
+
+[Journal](https://doi.org/10.1103/PhysRevE.103.032145){.pub-link} [arXiv](https://arxiv.org/abs/2101.04985){.pub-link}
+</div>
+:::
+
+## 2019 {.pub-year}
+
+::: {.publication}
+<span class="pub-count">12</span>
+<div>
+
+### Discrete and generalized phase-space techniques in critical quantum spin chains
+
+**Z. Mzaouali**, S. Campbell, and M. El Baz.
+
+*Physics Letters A* **383**, 125932 (2019).
+
+[Journal](https://doi.org/10.1016/j.physleta.2019.125932){.pub-link} [arXiv](https://arxiv.org/abs/1901.09164){.pub-link}
+</div>
+:::
+
+::: {.publication}
+<span class="pub-count">13</span>
+<div>
+
+### Long-range quantum coherence, quantum and classical correlations in the Heisenberg XX chain
+
+**Z. Mzaouali** and M. El Baz.
+
+*Physica A* **518**, 119–130 (2019).
+
+[Journal](https://doi.org/10.1016/j.physa.2018.11.062){.pub-link} [arXiv](https://arxiv.org/abs/1901.01100){.pub-link}
+</div>
+:::
+:::
+

@@ -1,0 +1,110 @@
+---
+title: "Research"
+description: "Research themes in quantum computing, quantum thermodynamics, many-body physics, and quantum information."
+page-layout: full
+title-block-style: none
+---
+
+::: {.page-hero}
+<p class="eyebrow">Research</p>
+
+# Connecting information, energy, and control
+
+My research asks how quantum systems process information under realistic physical constraints. I work across theory, computation, and hardware experiments, with an emphasis on questions that can be stated precisely and tested quantitatively.
+:::
+
+::: {.content-shell}
+::: {.theme-row}
+::: {.theme-index}
+01
+:::
+
+::: {.theme-body}
+## Thermodynamics of quantum computation
+
+Quantum processors are physical systems: every computation involves control, energy exchange, noise, and irreversibility. I study work and heat statistics in annealing protocols, the thermodynamic effect of problem encoding, and the relation between computational performance and energetic cost.
+
+**Questions:** How does a schedule redistribute work and heat? When does an encoding improve success at an unacceptable thermodynamic cost? Which observables can be measured reliably on present hardware?
+:::
+:::
+
+::: {.theme-row}
+::: {.theme-index}
+02
+:::
+
+::: {.theme-body}
+## Quantum annealing and hardware benchmarking
+
+I develop tests that treat a quantum processor as an experimental object rather than an abstract solver. The goal is to isolate what a device does well, where errors enter, and how hardware generations compare under controlled workloads. This includes forward and reverse annealing, physics-inspired QUBO families, and comparisons with classical and quantum-inspired solvers.
+
+**Platforms and methods:** D-Wave systems, QUBO and Ising formulations, schedule design, statistical inference, exact diagonalization, open-system models, and reproducible benchmarking.
+:::
+:::
+
+::: {.theme-row}
+::: {.theme-index}
+03
+:::
+
+::: {.theme-body}
+## Critical many-body systems and quantum control
+
+Phase transitions provide both a source of useful structure and a challenge for finite-time control. I investigate ground-state and excited-state criticality, non-equilibrium dynamics, work statistics, and control protocols designed around critical regions.
+
+**Models and tools:** collective-spin models, Ising and Ising–Heisenberg chains, Hubbard systems, tensor networks, exact diagonalization, and phase-space representations.
+:::
+:::
+
+::: {.theme-row}
+::: {.theme-index}
+04
+:::
+
+::: {.theme-body}
+## Quantum information in correlated matter
+
+I use quantum-information measures to identify operational resources in interacting systems. This includes long-distance entanglement and teleportation in Hubbard chains, as well as discrete Wigner functions for resolving phases, correlations, and dynamical transitions.
+
+**Aim:** connect a formal signature—such as entanglement, discord, or phase-space negativity—to a concrete communication, sensing, or thermodynamic task.
+:::
+:::
+
+## How the pieces fit together {.research-method-title}
+
+::: {.method-grid}
+::: {.method-card}
+### Model
+
+Start from a physical Hamiltonian, control protocol, or constrained optimization problem.
+:::
+
+::: {.method-card}
+### Predict
+
+Derive testable quantities using analytical arguments and numerical simulation.
+:::
+
+::: {.method-card}
+### Run
+
+Execute controlled experiments on quantum hardware or high-performance computing systems.
+:::
+
+::: {.method-card}
+### Audit
+
+Compare models, simulators, hardware generations, and uncertainty-aware performance metrics.
+:::
+:::
+
+::: {.research-callout}
+## Selected entry points
+
+- [Thermodynamic significance of QUBO encoding on quantum annealers](https://doi.org/10.1088/1367-2630/ae6e98)
+- [Quantum-inspired dynamical models on quantum and classical annealers](https://journals.aps.org/prapplied/abstract/10.1103/rrf3-jm5m)
+- [Navigating the phase diagram of quantum many-body systems in phase space](https://doi.org/10.1103/PhysRevE.110.014120)
+- [Work statistics and symmetry breaking in an excited-state quantum phase transition](https://doi.org/10.1103/PhysRevE.103.032145)
+:::
+:::
+

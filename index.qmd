@@ -1,0 +1,172 @@
+---
+title: "Zakaria Mzaouali"
+pagetitle: "Zakaria Mzaouali | Quantum Computing Researcher"
+description: "Theoretical physicist working at the intersection of quantum computing, thermodynamics, many-body physics, and quantum information."
+image: assets/img/zakaria-mzaouali.jpg
+page-layout: full
+title-block-style: none
+---
+
+::: {.hero-wrap}
+::: {.hero-copy}
+<p class="eyebrow">Quantum computing · Quantum thermodynamics</p>
+
+# Zakaria Mzaouali
+
+## Theoretical physicist studying how information, energy, and computation meet in quantum systems.
+
+I am a researcher at the **University of Tübingen**. My work combines analytical theory, numerical methods, and experiments on quantum hardware to understand what quantum devices compute, how reliably they do it, and what physical resources the computation consumes.
+
+::: {.hero-actions}
+[Explore my research](research.qmd){.btn .btn-primary .btn-lg}
+[View publications](publications.qmd){.btn .btn-outline-primary .btn-lg}
+:::
+
+::: {.hero-links}
+[Email](mailto:zakaria.mzaouali@uni-tuebingen.de)
+[Google Scholar](https://scholar.google.com/citations?user=OEWZC-EAAAAJ&hl=en)
+[GitHub](https://github.com/MoorishQubit)
+[ORCID](https://orcid.org/0000-0003-3948-1318)
+:::
+:::
+
+::: {.hero-portrait}
+<img src="assets/img/zakaria-mzaouali.jpg" class="profile-photo" alt="Zakaria Mzaouali beside a Bluefors dilution refrigerator">
+
+<div class="portrait-note"><span class="status-dot"></span> Tübingen, Germany</div>
+:::
+:::
+
+::: {.content-band}
+<p class="section-kicker">Research focus</p>
+
+## From fundamental physics to testable quantum technologies
+
+::: {.research-grid}
+::: {.research-card}
+<span class="card-number">01</span>
+
+### Quantum computing
+
+Algorithms, encodings, and hardware-aware tests for quantum annealers and gate-based processors.
+:::
+
+::: {.research-card}
+<span class="card-number">02</span>
+
+### Quantum thermodynamics
+
+Work, heat, irreversibility, and energy efficiency during real computational protocols.
+:::
+
+::: {.research-card}
+<span class="card-number">03</span>
+
+### Many-body physics
+
+Equilibrium and dynamical critical phenomena, spin models, and non-equilibrium control.
+:::
+
+::: {.research-card}
+<span class="card-number">04</span>
+
+### Quantum information
+
+Phase-space signatures, correlations, entanglement, and information transfer in interacting systems.
+:::
+:::
+:::
+
+::: {.home-section}
+::: {.section-heading}
+<div>
+<p class="section-kicker">Selected work</p>
+
+## Recent research
+</div>
+
+[All publications →](publications.qmd){.section-link}
+:::
+
+::: {.featured-list}
+::: {.featured-paper}
+<div class="paper-year">2026</div>
+<div>
+
+### [Quantum annealers as programmable thermal machines](https://arxiv.org/abs/2608.04564)
+
+An experimental and theoretical study of quantum annealers as thermodynamic processes, connecting programmable schedules with energy exchange and entropy production.
+
+`Quantum annealing`{.topic-tag} `Thermodynamics`{.topic-tag}
+</div>
+:::
+
+::: {.featured-paper}
+<div class="paper-year">2026</div>
+<div>
+
+### [Thermodynamic significance of QUBO encoding on quantum annealers](https://doi.org/10.1088/1367-2630/ae6e98)
+
+Penalty choices in a QUBO do more than change computational performance: they reshape the energy landscape and the measured thermodynamic cost.
+
+`New Journal of Physics`{.venue-tag} `QUBO`{.topic-tag}
+</div>
+:::
+
+::: {.featured-paper}
+<div class="paper-year">2026</div>
+<div>
+
+### [Quantum-inspired dynamical models on quantum and classical annealers](https://journals.aps.org/prapplied/abstract/10.1103/rrf3-jm5m)
+
+A common optimization formulation for testing quantum and classical annealers on models derived from real-time quantum dynamics.
+
+`Physical Review Applied`{.venue-tag} `Benchmarking`{.topic-tag}
+</div>
+:::
+:::
+:::
+
+::: {.home-section .news-section}
+::: {.section-heading}
+<div>
+<p class="section-kicker">Updates</p>
+
+## Recent milestones
+</div>
+:::
+
+::: {.timeline}
+::: {.timeline-item}
+<time>August 2026</time>
+<div><strong>New preprint:</strong> “Quantum annealers as programmable thermal machines” posted on arXiv.</div>
+:::
+
+::: {.timeline-item}
+<time>June 2026</time>
+<div><strong>New preprint:</strong> “Chirality routing non-polaritonic vacuum correlations in Landau polaritons.”</div>
+:::
+
+::: {.timeline-item}
+<time>May 2026</time>
+<div>“Thermodynamic significance of QUBO encoding on quantum annealers” published in <em>New Journal of Physics</em>.</div>
+:::
+
+::: {.timeline-item}
+<time>April 2026</time>
+<div>“Quantum-inspired dynamical models on quantum and classical annealers” published in <em>Physical Review Applied</em>.</div>
+:::
+:::
+:::
+
+::: {.contact-band}
+<div>
+<p class="section-kicker">Collaboration</p>
+
+## Interested in quantum hardware, thermodynamics, or many-body physics?
+
+I welcome conversations about research collaborations, seminars, and joint projects.
+</div>
+
+[Get in touch](mailto:zakaria.mzaouali@uni-tuebingen.de){.btn .btn-light .btn-lg}
+:::

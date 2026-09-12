@@ -1,0 +1,141 @@
+---
+title: "Curriculum Vitae"
+description: "Academic profile, appointments, education, and selected funding for Zakaria Mzaouali."
+page-layout: full
+title-block-style: none
+---
+
+::: {.page-hero .page-hero-compact}
+<p class="eyebrow">Curriculum vitae</p>
+
+# Academic profile
+
+Theoretical physicist and quantum-computing researcher based in Tübingen, Germany.
+:::
+
+::: {.content-shell .cv-shell}
+::: {.cv-contact}
+::: {.cv-photo-wrap}
+<img src="assets/img/zakaria-mzaouali.jpg" class="cv-photo" alt="Zakaria Mzaouali">
+:::
+
+::: {.cv-contact-body}
+## Zakaria Mzaouali, PhD
+
+Researcher · Institute of Physics · University of Tübingen
+
+[zakaria.mzaouali@uni-tuebingen.de](mailto:zakaria.mzaouali@uni-tuebingen.de)  
+[ORCID 0000-0003-3948-1318](https://orcid.org/0000-0003-3948-1318)  
+[Google Scholar](https://scholar.google.com/citations?user=OEWZC-EAAAAJ&hl=en) · [GitHub](https://github.com/MoorishQubit)
+:::
+:::
+
+## Appointments {.cv-heading}
+
+::: {.cv-entry}
+<div class="cv-date">Feb 2025—present</div>
+<div>
+
+### Researcher / Postdoctoral Researcher
+
+Institute of Physics, Eberhard Karls University of Tübingen, Germany
+</div>
+:::
+
+::: {.cv-entry}
+<div class="cv-date">Jun—Aug 2024</div>
+<div>
+
+### HIDA Visiting Researcher
+
+Jülich Supercomputing Centre, Forschungszentrum Jülich, Germany
+</div>
+:::
+
+::: {.cv-entry}
+<div class="cv-date">Jun 2022—Jan 2025</div>
+<div>
+
+### Assistant Professor / Researcher
+
+Institute of Theoretical and Applied Informatics, Polish Academy of Sciences, Gliwice, Poland
+</div>
+:::
+
+## Education {.cv-heading}
+
+::: {.cv-entry}
+<div class="cv-date">2017—2022</div>
+<div>
+
+### PhD in Theoretical Physics
+
+Mohammed V University in Rabat, Morocco  
+Thesis: [*Correlations and Work Statistics in Critical Quantum Systems*](https://arxiv.org/abs/2203.15464)
+</div>
+:::
+
+::: {.cv-entry}
+<div class="cv-date">2015—2017</div>
+<div>
+
+### MSc in Advances of Quantum Physics
+
+Applications to Information Theory · Mohammed V University in Rabat, Morocco
+</div>
+:::
+
+::: {.cv-entry}
+<div class="cv-date">2011—2015</div>
+<div>
+
+### Licence in Fundamental Physics
+
+Ibn Zohr University, Morocco
+</div>
+:::
+
+## Selected funding and projects {.cv-heading}
+
+::: {.grant-grid}
+::: {.grant-card}
+<span>Principal investigator</span>
+
+### [APS–Simons Travel and Professional Development Award](https://www.aps.org/funding-recognition/award/simons-travel-development)
+:::
+
+::: {.grant-card}
+<span>Visiting award</span>
+
+### [Helmholtz Information & Data Science Academy Visiting Researcher Grant](https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/)
+:::
+
+::: {.grant-card}
+<span>Principal investigator</span>
+
+### [NCN Miniatura 8](https://www.iitis.pl/en/project/harnessing-quantum-criticality-energy-efficient-quantum-computation)
+:::
+
+::: {.grant-card}
+<span>Participant</span>
+
+### [Competence Center Quantum Computing Baden-Württemberg](https://www.iaf.fraunhofer.de/en/networkers/KQC.html)
+:::
+
+::: {.grant-card}
+<span>Participant</span>
+
+### [SONATA BIS 10, National Science Centre Poland](https://www.iitis.pl/en/project/simulations-physical-systems-near-term-annealing-technology)
+:::
+
+::: {.grant-card}
+<span>Participant</span>
+
+### [EuroHPC-PL](https://www.iitis.pl/pl/project/narodowa-infrastruktura-superkomputerowa-dla-eurohpc-%E2%80%94-eurohpc-pl)
+:::
+:::
+
+## Research expertise {.cv-heading}
+
+`Quantum computing`{.skill-tag} `Quantum annealing`{.skill-tag} `Quantum thermodynamics`{.skill-tag} `Many-body physics`{.skill-tag} `Quantum information`{.skill-tag} `Phase-space methods`{.skill-tag} `Numerical simulation`{.skill-tag} `High-performance computing`{.skill-tag}
+:::

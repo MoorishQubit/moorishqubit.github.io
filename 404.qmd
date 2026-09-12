@@ -1,0 +1,16 @@
+---
+title: "Page not found"
+page-layout: full
+title-block-style: none
+---
+
+::: {.not-found}
+<div class="not-found-code">404</div>
+
+# This page is outside the observable sector.
+
+The address may have changed during the migration from the former Weebly site.
+
+[Return home](index.qmd){.btn .btn-primary .btn-lg}
+:::
+

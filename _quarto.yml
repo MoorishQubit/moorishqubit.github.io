@@ -1,0 +1,69 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - files/**
+
+website:
+  title: "Zakaria Mzaouali"
+  site-url: "https://moorishqubit.github.io"
+  description: "Zakaria Mzaouali is a theoretical physicist working on quantum computing, quantum thermodynamics, many-body physics, and quantum information."
+  favicon: assets/favicon.svg
+  open-graph:
+    locale: en_US
+    site-name: "Zakaria Mzaouali"
+  twitter-card:
+    creator: "@MoorishQubit"
+    card-style: summary
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    pinned: true
+    logo: assets/favicon.svg
+    logo-alt: "ZM monogram"
+    title: "Zakaria Mzaouali"
+    left:
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Software
+        href: software.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/MoorishQubit
+        aria-label: GitHub
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=OEWZC-EAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: envelope
+        href: mailto:zakaria.mzaouali@uni-tuebingen.de
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Zakaria Mzaouali"
+    center: "Built with Quarto · Hosted on GitHub Pages"
+    right:
+      - text: ORCID
+        href: https://orcid.org/0000-0003-3948-1318
+      - text: GitHub
+        href: https://github.com/MoorishQubit
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: [default, assets/styles.scss]
+    include-in-header: assets/schema.html
+    html-math-method: katex
+    link-external-newwindow: true
+    link-external-icon: false
+    smooth-scroll: true
+    toc: false
+    code-copy: true
+
+execute:
+  freeze: auto
