@@ -11,11 +11,11 @@ title-block-style: none
 ::: {.hero-copy}
 <p class="eyebrow">Quantum computing · Quantum thermodynamics</p>
 
-# Zakaria Mzaouali
+# Dr. Zakaria Mzaouali
 
-<p class="hero-summary">Theoretical physicist studying how information, energy, and computation meet in quantum systems.</p>
+<p class="hero-summary">Quantum computing researcher studying how information, energy, and computation meet in quantum systems.</p>
 
-I am a researcher at the **University of Tübingen**. My work combines analytical theory, numerical methods, and experiments on quantum hardware to understand what quantum devices compute, how reliably they do it, and what physical resources the computation consumes.
+I am a researcher at the **University of Tübingen** and affiliated with **Forschungszentrum Jülich GmbH** in Germany. My work combines analytical theory, numerical methods, and experiments on quantum hardware to understand what quantum devices compute, how reliably they do it, and what physical resources the computation consumes.
 
 ::: {.hero-actions}
 [Explore my research](research.qmd){.btn .btn-primary .btn-lg}
