@@ -9,8 +9,6 @@ title-block-style: none
 
 ::: {.hero-wrap}
 ::: {.hero-copy}
-<p class="eyebrow">Quantum computing · Quantum thermodynamics</p>
-
 # Dr. Zakaria Mzaouali
 
 <p class="hero-summary">Quantum computing researcher studying how information, energy, and computation meet in quantum systems.</p>
