@@ -20,6 +20,20 @@ Links below point to the journal version when available and to an open preprint.
 <span class="pub-count">01</span>
 <div>
 
+### Phase space anatomy of dynamical quantum phase transitions
+
+**Z. Mzaouali**.
+
+Preprint, 2026.
+
+[arXiv](https://arxiv.org/abs/2609.24636){.pub-link}
+</div>
+:::
+
+::: {.publication}
+<span class="pub-count">02</span>
+<div>
+
 ### Quantum annealers as programmable thermal machines
 
 J. Pawłowski, T. Śmierzchalski, F. Jin, B. Gardas, S. Deffner, and **Z. Mzaouali**.
@@ -31,7 +45,7 @@ Preprint, 2026.
 :::
 
 ::: {.publication}
-<span class="pub-count">02</span>
+<span class="pub-count">03</span>
 <div>
 
 ### Chirality routing non-polaritonic vacuum correlations in Landau polaritons
@@ -45,7 +59,7 @@ Preprint, 2026.
 :::
 
 ::: {.publication}
-<span class="pub-count">03</span>
+<span class="pub-count">04</span>
 <div>
 
 ### Thermodynamic significance of QUBO encoding on quantum annealers
@@ -59,7 +73,7 @@ E. Doucet, **Z. Mzaouali**, R. Robertson, B. Gardas, S. Deffner, and K. Domino.
 :::
 
 ::: {.publication}
-<span class="pub-count">04</span>
+<span class="pub-count">05</span>
 <div>
 
 ### Quantum-inspired dynamical models on quantum and classical annealers
@@ -75,7 +89,7 @@ P. Hanussek, J. Pawłowski, **Z. Mzaouali**, and B. Gardas.
 ## 2025 {.pub-year}
 
 ::: {.publication}
-<span class="pub-count">05</span>
+<span class="pub-count">06</span>
 <div>
 
 ### EMU circulation planning for Silesian Railways: case study and a quantum approach
@@ -89,7 +103,7 @@ Preprint, 2025.
 :::
 
 ::: {.publication}
-<span class="pub-count">06</span>
+<span class="pub-count">07</span>
 <div>
 
 ### Simon's period finding on a quantum annealer
@@ -103,7 +117,7 @@ R. Robertson, E. Doucet, **Z. Mzaouali**, K. Domino, B. Gardas, and S. Deffner.
 :::
 
 ::: {.publication}
-<span class="pub-count">07</span>
+<span class="pub-count">08</span>
 <div>
 
 ### SpinGlassPEPS.jl: Tensor-network package for Ising-like optimization on quasi-two-dimensional graphs
@@ -119,7 +133,7 @@ T. Śmierzchalski, A. M. Dziubyna, K. Jałowiecki, **Z. Mzaouali**, Ł. Pawela, 
 ## 2024 {.pub-year}
 
 ::: {.publication}
-<span class="pub-count">08</span>
+<span class="pub-count">09</span>
 <div>
 
 ### Navigating the phase diagram of quantum many-body systems in phase space
@@ -133,7 +147,7 @@ K. El Hawary, M. Azzouz, M. El Baz, S. Deffner, B. Gardas, and **Z. Mzaouali**.
 :::
 
 ::: {.publication}
-<span class="pub-count">09</span>
+<span class="pub-count">10</span>
 <div>
 
 ### Efficiency optimization in quantum computing: balancing thermodynamics and computational performance
@@ -149,7 +163,7 @@ T. Śmierzchalski, **Z. Mzaouali**, S. Deffner, and B. Gardas.
 ## 2023 {.pub-year}
 
 ::: {.publication}
-<span class="pub-count">10</span>
+<span class="pub-count">11</span>
 <div>
 
 ### Long-distance entanglement and high-dimensional quantum teleportation in the Fermi–Hubbard model
@@ -165,7 +179,7 @@ S. Abaach, **Z. Mzaouali**, and M. El Baz.
 ## 2021 {.pub-year}
 
 ::: {.publication}
-<span class="pub-count">11</span>
+<span class="pub-count">12</span>
 <div>
 
 ### Work statistics and symmetry breaking in an excited-state quantum phase transition
@@ -181,7 +195,7 @@ S. Abaach, **Z. Mzaouali**, and M. El Baz.
 ## 2019 {.pub-year}
 
 ::: {.publication}
-<span class="pub-count">12</span>
+<span class="pub-count">13</span>
 <div>
 
 ### Discrete and generalized phase-space techniques in critical quantum spin chains
@@ -195,7 +209,7 @@ S. Abaach, **Z. Mzaouali**, and M. El Baz.
 :::
 
 ::: {.publication}
-<span class="pub-count">13</span>
+<span class="pub-count">14</span>
 <div>
 
 ### Long-range quantum coherence, quantum and classical correlations in the Heisenberg XX chain
